@@ -3,7 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/TestGit.iml" filepath="$PROJECT_DIR$/TestGit.iml" />
+      <module fileurl="file://F:\androidFile\TestGit\TestGit.iml" filepath="F:\androidFile\TestGit\TestGit.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://F:\androidFile\TestGit\app\app.iml" filepath="F:\androidFile\TestGit\app\app.iml" />
     </modules>
   </component>
 </project>
